@@ -13,7 +13,14 @@ Add a space backdrop and the first sprite.
 
 --- no-print ---
 
-<div style="position: relative; display: inline-block; padding: 20px 60px;">
+<div style="
+  position: relative;
+  display: inline-flex;
+  align-items: stretch;
+  justify-content: center;
+  padding: 0 4em; /* space for braces */
+">
+
   <!-- Left brace -->
   <span style="
     position: absolute;
@@ -22,9 +29,10 @@ Add a space backdrop and the first sprite.
     bottom: 0;
     display: flex;
     align-items: center;
-    font-size: 200px;
+    font-size: 8em;
     color: #3fb654;
     line-height: 1;
+    filter: drop-shadow(0 0 6px #3fb654);
   ">{</span>
 
   <!-- Right brace -->
@@ -35,23 +43,26 @@ Add a space backdrop and the first sprite.
     bottom: 0;
     display: flex;
     align-items: center;
-    font-size: 200px;
+    font-size: 8em;
     color: #3fb654;
     line-height: 1;
+    filter: drop-shadow(0 0 6px #3fb654);
   ">}</span>
 
   <!-- Video -->
   <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1" 
-    allowfullscreen 
+    src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1"
     style="
+      width: 560px;
+      height: 315px;
+      border: none;
       border-radius: 20px;
-      box-shadow: 0 0 20px #3fb654;
-      border: none;">
+      box-shadow: 0 0 15px #3fb654;
+    "
+    allowfullscreen>
   </iframe>
 </div>
+
 
 --- /no-print ---
 
