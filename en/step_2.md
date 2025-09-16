@@ -13,21 +13,45 @@ Add a space backdrop and the first sprite.
 
 --- no-print ---
 
-<div style="position: relative; display: inline-block;">
-  <span style="position: absolute; left: -40px; top: 50%; transform: translateY(-50%); font-size: 200px; color: #3fb654;">{</span>
-  
+<div style="position: relative; display: inline-block; padding: 20px 60px;">
+  <!-- Left brace -->
+  <span style="
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    font-size: 200px;
+    color: #3fb654;
+    line-height: 1;
+  ">{</span>
+
+  <!-- Right brace -->
+  <span style="
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    font-size: 200px;
+    color: #3fb654;
+    line-height: 1;
+  ">}</span>
+
+  <!-- Video -->
   <iframe 
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1" 
     allowfullscreen 
-    style="border: none; border-radius: 20px; box-shadow: 0 0 20px #3fb654;">
+    style="
+      border-radius: 20px;
+      box-shadow: 0 0 20px #3fb654;
+      border: none;">
   </iframe>
-  
-  <span style="position: absolute; right: -40px; top: 50%; transform: translateY(-50%); font-size: 200px; color: #3fb654;">}</span>
 </div>
-
-
 
 --- /no-print ---
 
