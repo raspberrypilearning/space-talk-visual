@@ -10,6 +10,7 @@ Add a space backdrop and the first sprite.
 
 </div>
 </div>
+</div>
 
 --- no-print ---
 
