@@ -83,7 +83,7 @@ Select the **Fantasy** category and then the **Pico** sprite.
 
 --- task ---
 
-Position **Pico** on the left. 
+Move **Pico** to the left. 
 
 Your Stage should look something like this:
 

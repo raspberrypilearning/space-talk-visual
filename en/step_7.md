@@ -1,4 +1,4 @@
-## Step title
+## Giga changes colour
 
 --- no-print ---
 

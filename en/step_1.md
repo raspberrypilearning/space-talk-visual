@@ -18,12 +18,12 @@ Click on each sprite to see what they do.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-Follow along the project on our [YouTube]() playlist!
+Follow along the project on our [YouTube](7) playlist!
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-Print our NEW [visual-first](6) step-by-step guide!
+Print our NEW [visual-first](7) step-by-step guide!
 </p>
 
 --- /no-print ---

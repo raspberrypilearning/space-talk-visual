@@ -1,4 +1,4 @@
-## Step title
+## Nano signs "Thanks!"
 
 --- no-print ---
 

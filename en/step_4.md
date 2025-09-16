@@ -1,4 +1,4 @@
-## Challenge
+## Pico plays a sound
 
 --- no-print ---
 
