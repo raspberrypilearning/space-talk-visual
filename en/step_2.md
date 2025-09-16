@@ -15,10 +15,30 @@ Add a space backdrop and the first sprite.
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: 50px #3fb654; border-radius: 10px; padding: 10px; box-shadow: 0 0 10px green; clip-path: polygon(0% 10%, 5% 0%, 95% 0%, 100% 10%, 100% 90%, 95% 100%, 5% 100%, 0% 90%);" src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
+    src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1" 
+    allowfullscreen 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+  </iframe>
+  <div style="
+    pointer-events: none;
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 100%;
+    border: 14px solid #3fb654;
+    border-radius: 40px;
+    box-shadow: 0 0 20px #3fb654;
+    --wave: url('data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 100 100&quot; preserveAspectRatio=&quot;none&quot;><path fill=&quot;white&quot; d=&quot;M0,30 C20,60 40,0 60,30 C80,60 100,0 100,30 L100,100 L0,100 Z&quot;/></svg>');
+    -webkit-mask-image: var(--wave);
+    -webkit-mask-repeat: repeat-x;
+    -webkit-mask-size: 50% 40%;
+    mask-image: var(--wave);
+    mask-repeat: repeat-x;
+    mask-size: 50% 40%;
+  "></div>
 </div><br>
 </html>
+
 
 --- /no-print ---
 
