@@ -13,23 +13,15 @@ Add a space backdrop and the first sprite.
 
 --- no-print ---
 
-<div style="
-  position: relative;
-  width: 100%;
-  margin: 16px 0;
-  padding: 0 72px; /* space for braces */
-  box-sizing: border-box;
-">
-
-  <!-- Video wrapper keeps 16:9 and full width -->
-  <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
-    <iframe
-      src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1"
-      style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
-      allowfullscreen>
-    </iframe>
-  </div>
+<!-- Video wrapper keeps 16:9 and full width -->
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
+<iframe
+    src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1"
+    style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
+    allowfullscreen>
+</iframe>
 </div>
+
 
 
 
