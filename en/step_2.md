@@ -15,7 +15,7 @@ Add a space backdrop and the first sprite.
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: 1;" src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
 </iframe>
 </div><br>
 </html>
@@ -85,7 +85,7 @@ Select the **Fantasy** category and then the **Pico** sprite.
 
 Move **Pico** to the left. 
 
-Your Stage should look something like this:
+Your Stage should look like this:
 
 ![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
