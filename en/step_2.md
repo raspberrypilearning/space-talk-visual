@@ -10,59 +10,42 @@ Add a space backdrop and the first sprite.
 
 </div>
 </div>
-</div>
 
 --- no-print ---
 
 <div style="
   position: relative;
-  display: inline-flex;
-  align-items: stretch;
-  justify-content: center;
-  padding: 0 4em; /* space for braces */
+  width: 100%;
+  margin: 16px 0;
+  padding: 0 72px; /* space for braces */
+  box-sizing: border-box;
 ">
-
   <!-- Left brace -->
-  <span style="
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    display: flex;
-    align-items: center;
-    font-size: 8em;
-    color: #3fb654;
-    line-height: 1;
-    filter: drop-shadow(0 0 6px #3fb654);
-  ">{</span>
+  <svg viewBox="0 0 100 400" aria-hidden="true"
+       style="position: absolute; left: 0; top: 0; height: 100%; width: 56px; filter: drop-shadow(0 0 6px #3fb654);">
+    <path fill="#3fb654"
+          d="M100,0 C70,20 60,40 60,80 L60,120 C60,160 40,180 10,190 L10,210 C40,220 60,240 60,280 L60,320 C60,360 70,380 100,400
+             L90,400 C60,375 56,355 56,320 L56,280 C56,242 35,222 6,210 L6,190 C35,178 56,158 56,120 L56,80 C56,45 60,25 90,0 Z"/>
+  </svg>
 
   <!-- Right brace -->
-  <span style="
-    position: absolute;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    display: flex;
-    align-items: center;
-    font-size: 8em;
-    color: #3fb654;
-    line-height: 1;
-    filter: drop-shadow(0 0 6px #3fb654);
-  ">}</span>
+  <svg viewBox="0 0 100 400" aria-hidden="true"
+       style="position: absolute; right: 0; top: 0; height: 100%; width: 56px; transform: scaleX(-1); filter: drop-shadow(0 0 6px #3fb654);">
+    <path fill="#3fb654"
+          d="M100,0 C70,20 60,40 60,80 L60,120 C60,160 40,180 10,190 L10,210 C40,220 60,240 60,280 L60,320 C60,360 70,380 100,400
+             L90,400 C60,375 56,355 56,320 L56,280 C56,242 35,222 6,210 L6,190 C35,178 56,158 56,120 L56,80 C56,45 60,25 90,0 Z"/>
+  </svg>
 
-  <!-- Video -->
-  <iframe 
-    src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1"
-    style="
-      width: 560px;
-      height: 315px;
-      border: none;
-      border-radius: 20px;
-      box-shadow: 0 0 15px #3fb654;
-    "
-    allowfullscreen>
-  </iframe>
+  <!-- Video wrapper keeps 16:9 and full width -->
+  <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
+    <iframe
+      src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1"
+      style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;"
+      allowfullscreen>
+    </iframe>
+  </div>
 </div>
+
 
 
 --- /no-print ---
