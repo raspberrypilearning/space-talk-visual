@@ -35,7 +35,7 @@ Select the **Sprite1** sprite and click the **Delete** icon.
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}.
+Open a [new project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}.
 
 [[[working-offline]]]
 
@@ -51,7 +51,7 @@ Choose a Backdrop.
 
 --- task ---
 
-Click on the **Space** category.
+Click the **Space** category.
 
 ![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
