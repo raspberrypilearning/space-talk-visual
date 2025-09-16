@@ -15,7 +15,7 @@ Add a space backdrop and the first sprite.
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: 1;" src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: 5px solid green; border-radius: 20px; padding: 10px; box-shadow: 0 0 10px green; clip-path: polygon(0% 10%, 5% 0%, 95% 0%, 100% 10%, 100% 90%, 95% 100%, 5% 100%, 0% 90%);" src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
 </iframe>
 </div><br>
 </html>
