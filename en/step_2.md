@@ -13,31 +13,20 @@ Add a space backdrop and the first sprite.
 
 --- no-print ---
 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+<div style="position: relative; display: inline-block;">
+  <span style="position: absolute; left: -40px; top: 50%; transform: translateY(-50%); font-size: 200px; color: #3fb654;">{</span>
+  
   <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
+    width="560" 
+    height="315" 
     src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1" 
     allowfullscreen 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+    style="border: none; border-radius: 20px; box-shadow: 0 0 20px #3fb654;">
   </iframe>
-  <div style="
-    pointer-events: none;
-    position: absolute;
-    top: 0; left: 0; width: 100%; height: 100%;
-    border: 14px solid #3fb654;
-    border-radius: 40px;
-    box-shadow: 0 0 20px #3fb654;
-    --wave: url('data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 100 100&quot; preserveAspectRatio=&quot;none&quot;><path fill=&quot;white&quot; d=&quot;M0,30 C20,60 40,0 60,30 C80,60 100,0 100,30 L100,100 L0,100 Z&quot;/></svg>');
-    -webkit-mask-image: var(--wave);
-    -webkit-mask-repeat: repeat-x;
-    -webkit-mask-size: 50% 40%;
-    mask-image: var(--wave);
-    mask-repeat: repeat-x;
-    mask-size: 50% 40%;
-  "></div>
-</div><br>
-</html>
+  
+  <span style="position: absolute; right: -40px; top: 50%; transform: translateY(-50%); font-size: 200px; color: #3fb654;">}</span>
+</div>
+
 
 
 --- /no-print ---
