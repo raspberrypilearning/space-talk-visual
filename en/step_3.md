@@ -46,6 +46,7 @@ The blocks will snap together.
 +when this sprite clicked
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
+{: .blocks-hc}
 
 --- /task ---
 
