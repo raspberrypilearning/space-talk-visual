@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
   
-Make Pico emote with words and sound.
+Make Pico emote with words.
 </div>
 <div>
 
@@ -48,8 +48,6 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
-
-### Test
 
 --- task ---
 
