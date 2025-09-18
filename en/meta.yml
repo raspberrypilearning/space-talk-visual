@@ -17,7 +17,7 @@ steps:
     completion:
       - engaged
   - title: Pico plays a sound
-  - title: Nano switches costumes
+  - title: Nano moves
   - title: Nano signs "Thanks!"
   - title: Giga changes colour
     completion:

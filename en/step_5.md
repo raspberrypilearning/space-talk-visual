@@ -1,13 +1,13 @@
-## Nano switches costumes
+## Nano moves
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
   
-Make Pico emote with words and sound.
+Get Nano to move by switching **costumes**.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![The Nano sprite with arms out](images/nano-b-demo.png){:width="300px"}
 
 </div>
 </div>
@@ -24,3 +24,31 @@ Make Pico emote with words and sound.
 
 --- /no-print ---
 
+--- task ---
+
+Add the **Nano** sprite to your project from the **Fantasy** category.
+
+![The 'Choose a Sprite' icon.](images/menu_choose_sprite.png){:width="300px"}
+
+--- /task ---
+
+--- task ---
+
+Add blocks to make **Nano** change costume. 
+
+Use the drop down menu to switch the costume to `nano-b` in the first `switch`{:class="block3looks"} block, then `nano-a` in the second `switch`{:class="block3looks"} block:
+
+```blocks3
+when this sprite clicked // when Nano is clicked
+switch costume to (nano-b v) // Nano talking
+wait (0.5) seconds // try 0.25 instead of 0.5
+switch costume to (nano-a v) // Nano smiling
+```
+
+--- /task ---
+
+--- task ---
+
+**Test:** Click **Nano** and check the costume changes.
+
+--- /task ---
