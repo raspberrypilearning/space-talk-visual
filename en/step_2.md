@@ -46,7 +46,7 @@ Open a [new project](https://scratch.mit.edu/projects/582213331/editor){:target=
 
 Choose a Backdrop.
 
-![The 'Choose a Backdrop' icon.](images/choose_a_backdrop.png){:width="200px"}
+![The 'Choose a Backdrop' icon.](images/choose_a_backdrop.png){:width="300px"}
 
 --- /task ---
 
@@ -70,7 +70,7 @@ Click the 'Space' backdrop.
 
 Choose a Sprite.
 
-![The 'Choose a Sprite' menu.](images/menu_choose_sprite.png)
+![The 'Choose a Sprite' menu.](images/menu_choose_sprite.png){:width="300px"}
 
 --- /task ---
 
