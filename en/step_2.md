@@ -13,7 +13,6 @@ Add a space backdrop and the first sprite.
 
 --- no-print ---
 
-<!-- Video wrapper keeps 16:9 and full width -->
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 20px; box-shadow: 0 0 15px #3fb654; overflow: hidden;">
 <iframe
     src="https://www.youtube.com/embed/GaoChS1fG3o?rel=0&cc_load_policy=1"
@@ -21,9 +20,6 @@ Add a space backdrop and the first sprite.
     allowfullscreen>
 </iframe>
 </div>
-
-
-
 
 --- /no-print ---
 
@@ -50,7 +46,7 @@ Open a [new project](https://scratch.mit.edu/projects/582213331/editor){:target=
 
 Choose a Backdrop.
 
-![The 'Choose a Backdrop' icon.](images/choose_a_backdrop.png)
+![The 'Choose a Backdrop' icon.](images/choose_a_backdrop.png){:width=200px}
 
 --- /task ---
 
