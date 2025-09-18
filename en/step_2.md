@@ -21,7 +21,12 @@ Add a space backdrop and the first sprite.
 </iframe>
 </div>
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+
+Follow along the project on our [YouTube](7) playlist!
+</p>
 --- /no-print ---
+
 
 ### Delete the cat sprite
 

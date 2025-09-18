@@ -22,6 +22,10 @@ Get Nano to sign by editing a costume.
 </iframe>
 </div>
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+
+Follow along the project on our [YouTube](7) playlist!
+</p>
 --- /no-print ---
 
 ### Nano uses sign language
@@ -68,7 +72,7 @@ The costume should look like this:
 
 Click the 'Front' tool.
 
-![The Front tool](images/ui_bring_to_front_made.png)
+![The Front tool](images/ui_bring_to_front_made.png){:width="100px"}
 
 The costume should look like this:
 
