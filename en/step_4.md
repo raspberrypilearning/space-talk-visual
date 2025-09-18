@@ -19,7 +19,7 @@ Make Pico emote with sound.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-Follow along the project on our [YouTube](7) playlist!
+Play, pause, make. Follow the project on our [YouTube](7) playlist!
 </p>
 --- /no-print ---
 
