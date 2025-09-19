@@ -113,7 +113,7 @@ Name your project.
 
 ![The project name box.](images/project-name.png)
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects. 
+**Tip:** Use helpful names so you can find them easily. 
 
 --- /task ---
 
@@ -123,6 +123,6 @@ Click **File**, then **Save now**.
 
 ![The 'File' menu options.](images/file-menu.png)
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+If you are not online or you do not have a Scratch account, click on **Save to your computer**.
 
 --- /task ---
