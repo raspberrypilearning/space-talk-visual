@@ -30,10 +30,8 @@ Play, pause, make. Follow the project on our [YouTube](7) playlist!
 --- collapse ---
 
 ---
-title: Step-by-step guide
+title: Delete the cat sprite
 ---
-
-### Delete the cat sprite
 
 --- task ---
 Select the **Sprite1** sprite and click the **Delete** icon.
@@ -42,7 +40,15 @@ Select the **Sprite1** sprite and click the **Delete** icon.
 
 --- /task ---
 
-### Add a backdrop
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Add a backdrop
+---
+
+
 
 --- task ---
 
@@ -102,7 +108,13 @@ Your Stage should look like this:
 
 --- /task ---
 
-### Save
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Save
+---
 
 --- task ---
 
@@ -131,6 +143,5 @@ Click **File**, then **Save now**.
 If you are not online or you do not have a Scratch account, click on **Save to your computer**.
 
 --- /task ---
-
 
 --- /collapse ---
