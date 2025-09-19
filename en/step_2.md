@@ -20,8 +20,11 @@ Add a space backdrop and the first sprite.
     allowfullscreen>
 </iframe>
 </div>
-<br>
+
+<div style="text-align: center; margin-top: 1em;">
+
 Play, pause, make. Follow the project on our [YouTube](7) playlist!
+</div>
 
 --- /no-print ---
 

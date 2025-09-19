@@ -22,10 +22,10 @@ Make Pico emote with words.
 </iframe>
 </div>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<div style="text-align: center; margin-top: 1em;">
 
 Play, pause, make. Follow the project on our [YouTube](7) playlist!
-</p>
+</div>
 --- /no-print ---
 
 ### Make Pico talk
