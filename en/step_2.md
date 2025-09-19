@@ -27,6 +27,11 @@ Play, pause, make. Follow the project on our [YouTube](7) playlist!
 </p>
 --- /no-print ---
 
+--- collapse ---
+
+---
+title: Step-by-step guide
+---
 
 ### Delete the cat sprite
 
@@ -126,3 +131,6 @@ Click **File**, then **Save now**.
 If you are not online or you do not have a Scratch account, click on **Save to your computer**.
 
 --- /task ---
+
+
+--- /collapse ---
