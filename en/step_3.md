@@ -47,8 +47,8 @@ Open the `Looks`{:class="block3looks"} menu and drag the `say`{:class="block3loo
 The blocks will snap together.
 
 ```blocks3
-+when this sprite clicked
-say [Hello!] for [2] seconds // hide speech after 2 seconds
+when this sprite clicked
++say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
