@@ -22,6 +22,6 @@ steps:
   - title: Giga changes colour
     completion:
       - internal
-  - title: Upgrade your project
+  - title: Visual first
     completion:
       - external

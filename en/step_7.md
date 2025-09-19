@@ -43,7 +43,7 @@ Add blocks to make **Giga** change colour.
 
 ```blocks3
 when this sprite clicked
-set [color v] effect to [0] // 0 is the starting colour
+set [color v] effect to [100] // 0 is the starting colour
 think [Hmm...] for [2] seconds 
 clear graphic effects // back to the starting colour
 ```

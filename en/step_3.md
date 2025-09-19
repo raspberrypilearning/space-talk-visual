@@ -59,6 +59,4 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-You have already saved your project and given it a name. Scratch will now **automatically** save for you. 
-
-You can still click save if you like, just to make sure.
+Scratch will **automatically** save. 
