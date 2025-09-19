@@ -34,7 +34,7 @@ Play, pause, make. Follow the project on our [YouTube](7) playlist!
 
 Click the **Costumes** tab. 
 
-![The Costumes tab.](images/tab-costumes.png)
+![The Costumes tab.](images/tab_costumes.png)
 
 --- /task ---
 
