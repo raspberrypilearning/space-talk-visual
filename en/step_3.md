@@ -22,10 +22,10 @@ Make Pico emote with words.
 </iframe>
 </div>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<div style="text-align: center; margin-top: 1em;">
 
 Play, pause, make. Follow the project on our [YouTube](7) playlist!
-</p>
+</div>
 --- /no-print ---
 
 ### Make Pico talk
@@ -47,8 +47,8 @@ Open the `Looks`{:class="block3looks"} menu and drag the `say`{:class="block3loo
 The blocks will snap together.
 
 ```blocks3
-+when this sprite clicked
-say [Hello!] for [2] seconds // hide speech after 2 seconds
+when this sprite clicked
++say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
