@@ -18,12 +18,12 @@ Click on each sprite to see what they do.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-Follow along the project on our [YouTube](7) playlist!
+Follow along the project on our [YouTube](https://projects.raspberrypi.org/en/projects/space-talk-visual/7) playlist!
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-Print our NEW [visual-first](7) step-by-step guide!
+Print our NEW [visual-first](https://projects-static.raspberrypi.org/projects/space-talk-visual/e9e1191ee52fc883c40c3211aae149917bf23c1b/en/resources/space-talk-visual.pdf) step-by-step guide!
 </p>
 
 --- /no-print ---
