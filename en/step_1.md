@@ -23,7 +23,7 @@ Follow along the project on our [YouTube](https://projects.raspberrypi.org/en/pr
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-Print our NEW [visual-first](https://projects-static.raspberrypi.org/projects/space-talk-visual/e9e1191ee52fc883c40c3211aae149917bf23c1b/en/resources/space-talk-visual.pdf) step-by-step guide!
+Print our NEW [visual-first](https://projects-static.raspberrypi.org/projects/space-talk-visual/bfb88d702d54b1d891ea2304f044bee73c65200e/en/resources/space-talk-visual.pdf) step-by-step guide!
 </p>
 
 --- /no-print ---
